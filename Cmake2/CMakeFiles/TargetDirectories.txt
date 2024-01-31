@@ -1,0 +1,3 @@
+C:/Users/Renata/Documents/GitHub/lab1/Cmake2/CMakeFiles/lab1.dir
+C:/Users/Renata/Documents/GitHub/lab1/Cmake2/CMakeFiles/ALL_BUILD.dir
+C:/Users/Renata/Documents/GitHub/lab1/Cmake2/CMakeFiles/ZERO_CHECK.dir
