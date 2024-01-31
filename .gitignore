@@ -1,4 +1,5 @@
 cmake1/*.vcxproj
 cmake1/*.vcxproj.filters
 cmake1/*.sln
+cmake1/*.img
 cmake1/CMakeFiles/
