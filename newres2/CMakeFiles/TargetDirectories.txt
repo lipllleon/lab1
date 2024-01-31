@@ -1,0 +1,3 @@
+C:/Users/student24/Documents/GitHub/lab1/newres2/CMakeFiles/lab1.dir
+C:/Users/student24/Documents/GitHub/lab1/newres2/CMakeFiles/ALL_BUILD.dir
+C:/Users/student24/Documents/GitHub/lab1/newres2/CMakeFiles/ZERO_CHECK.dir
