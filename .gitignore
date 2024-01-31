@@ -1,3 +1,4 @@
-CMakeFiles
-.vcxproj
-.sln
+Cmake2/CMakeFiles/
+Cmake2/*.vcxproj
+Cmake2/*.sln
+Cmake2/*.vcxproj.filters
