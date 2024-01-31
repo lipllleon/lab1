@@ -1,0 +1,10 @@
+^C:\USERS\RENATA\DOCUMENTS\GITHUB\LAB1\NEWRES1\CMAKEFILES\C8B4B0B3D7DC10DA8213F13D55C64CA9\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Renata/Desktop/cmake1 -BC:/Users/Renata/Documents/GitHub/lab1/NewRes1 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Renata/Documents/GitHub/lab1/NewRes1/res.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

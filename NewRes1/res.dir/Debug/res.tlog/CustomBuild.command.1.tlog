@@ -1,0 +1,10 @@
+^C:\USERS\RENATA\DESKTOP\CMAKE1\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Renata/Desktop/cmake1 -BC:/Users/Renata/Documents/GitHub/lab1/NewRes1 --check-stamp-file C:/Users/Renata/Documents/GitHub/lab1/NewRes1/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
